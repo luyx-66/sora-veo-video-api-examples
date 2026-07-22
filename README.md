@@ -1,6 +1,6 @@
 # Sora and Veo Video API Examples
 
-Python examples for **Sora API**, **Veo API**, and other asynchronous text-to-video APIs. Submit multiple jobs, poll task status, resume completed work, and stop before an estimated video-generation budget is exceeded.
+Python examples for **Sora 2 API**, **Veo API**, and other asynchronous text-to-video APIs. This AI video generation API client submits multiple jobs, polls task status, resumes completed work, and stops before an estimated video-generation budget is exceeded.
 
 ## Quick start
 
