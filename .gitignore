@@ -1,0 +1,4 @@
+.env
+.env.local
+video-results.jsonl
+__pycache__/
