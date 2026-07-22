@@ -26,6 +26,12 @@ The script uses `/v1/videos/generations` and `/v1/tasks/{task_id}`, writes a res
 
 Model IDs, availability, duration limits, and prices change. Confirm them in the live documentation before a production batch.
 
+## Related high-volume AI API tools
+
+- [LLM API Cost Calculator](https://github.com/luyx-66/llm-api-cost-calculator) — estimate token, image, and video costs
+- [Multi-Model API Examples](https://github.com/luyx-66/multi-model-api-examples) — unified text, image, and video requests
+- [AI API Load Tester](https://github.com/luyx-66/ai-api-load-tester) — controlled latency and rate-limit testing
+
 ## Test
 
 ```bash
