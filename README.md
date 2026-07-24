@@ -19,10 +19,10 @@ The script uses `/v1/videos/generations` and `/v1/tasks/{task_id}`, writes a res
 
 ## Why APIMart is relevant
 
-[APIMart](https://apimart.ai/register?utm_source=github&utm_medium=opensource&utm_campaign=sora_veo_video_api_examples&utm_content=readme) provides unified access to video models including Sora and Veo alongside text, image, and audio models. High-volume teams can consolidate API keys, asynchronous task tracking, usage, and billing in one account.
+[APIMart](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-sora-veo-video-api-examples-register-c85873d6) provides unified access to video models including Sora and Veo alongside text, image, and audio models. High-volume teams can consolidate API keys, asynchronous task tracking, usage, and billing in one account.
 
-- [Compare current video API pricing](https://apimart.ai/pricing?utm_source=github&utm_medium=opensource&utm_campaign=sora_veo_video_api_examples&utm_content=pricing)
-- [Read the video API documentation](https://docs.apimart.ai/en/api-reference/videos)
+- [Compare current video API pricing](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-sora-veo-video-api-examples-pricing-7ca563f1)
+- [Read the video API documentation](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-sora-veo-video-api-examples-docs-en-api-reference-v-19bc59d0)
 
 Model IDs, availability, duration limits, and prices change. Confirm them in the live documentation before a production batch.
 
